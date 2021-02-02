@@ -4,6 +4,12 @@ body {
     color: #ffffff;
 }
 
+img {
+    display: block;
+    margin: auto;
+    width: 550px;
+}
+
 h1 {
     font-size: 64px;
     text-align: center;
@@ -48,6 +54,10 @@ div {
 #green {
     background-color: #008000;
     text-align: left;
+}
+
+footer {
+    padding: 25px;
 }
 
 footer p {
